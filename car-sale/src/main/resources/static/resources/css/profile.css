@@ -1,0 +1,20 @@
+@media only screen and (min-width: 600px) {
+    .maindiv{
+        display: block;
+    }
+    .profile-info{
+        text-align: center;
+    }
+    .sideNav{
+        display: flex;
+        border: none;
+        font-size: small;
+        box-shadow: none;
+    }
+    .carSale{
+        display: block;
+    }
+    body {
+      background-color: lightblue;
+    }
+}
