@@ -12,6 +12,6 @@ This project is created with Spring boot in MVC pattern where user can register 
 # Authentication and Authorization
 Spring Security package is used for form authentication and authorization.
 
-#Tested Module
+# Tested Module
 Authentication and authorization has been automatically tested with combination of <code>JUnit</code> and <code>Mockito</code>.
 Business logics for create, delete and update, are also tested.
